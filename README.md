@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patriksvensson1
-- I'm currently a CS student at Stockholm Univeristy
+- I'm a CS student at Stockholm University.
 
 <!---
 patriksvensson1/patriksvensson1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
